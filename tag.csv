@@ -1,0 +1,92 @@
+"""To Verify ToDo element is created successfully"","""",""PASSED",1
+"""To Verify ToDo element is created successfully"","""",""FAILED",1
+"""Verify ToDo element is created successfully"",""Error logged in log file"",""",1
+"""Verify whether ToDo Role is created"",""ToDo Role is successfully created"",""""",2
+"""Verify whether ToDo Role is created"",""ToDo Role is NOT created"",""""",2
+"""To Verify ToDo element is created successfully"","""",""FAILED",2
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" successfully created"",""""",3
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" is not created"",""""",3
+"""To Verify ToDo element is created successfully"","""",""FAILED",3
+"""Verify To Do Entry Updation"",""To Do Entry updated successfully"",""""",4
+"""Verify To Do Entry Updation"",""To Do Entry not updated successfully"",""""",4
+"""Verify To Do Entry Updation"","""",""FAILED",4
+"""Verify To Do Entry Creation"",""To Do Entry Successfully Created"",""""",5
+"""Verify To Do Entry Creation"",""ToDo Entry Not ctrated"",""""",5
+"""Verify To Do Entry Creation"","""",""FAILED",5
+"""Verify To Do Entry Forward to a User"",""Forwarded to user succeeded"",""""",6
+"""Verify To Do Entry Forward to a User"",""Forwarded to user failed"",""""",7
+"""Verify To Do Entry Forward to a User"","""",""FAILED",7
+"""Verify To Do Entry Send back to User"",""Send back to user succeded"",""""",8
+"""Verify To Do Entry Send back to User"",""Send back to user failed"",""""",9
+"""Verify To Do Entry Send back to User"","""",""FAILED",9
+"""Verify whether ToDo is completed"",""ToDo Entry is successfully completed"",""""",10
+"""Verify whether ToDo is completed"",""ToDo Entry is NOT successfully completed"",""""",10
+"""Verify whether ToDO got updated to Open Status"",""ToDO got updated to Open Status"",""""",11
+"""Verify whether ToDO got updated to Open Status"",""ToDO DID NOT get updated to Open Status"",""""",11
+"""To Verify ToDo element is created successfully"","""",""FAILED",11
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO got Assigned to To the expected User"",""""",12
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO did not get Assigned to To the expected User"",""""",13
+"""To Verify ToDo element is created successfully"","""",""FAILED",13
+"""Test will verify To Do Role creation"","""",""PASSED",14
+"""Test will verify To Do Role creation"","""",""FAILED",14
+"""Test will verify To Do Role creation"",""Error logged in log file"",""",14
+"""Verify whether ToDo Role is created"",""ToDo Role is successfully created"",""",15
+"""Verify whether ToDo Role is created"","""",""FAILED",16
+"""Verify whether ToDo Role is created"",""ToDo Role is NOT created"",""",16
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" successfully created"",""",17
+"""Verify whether ToDo Type is created"","""",""FAILED",18
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" is not created"",""",18
+"""Verify ToDo Entry page is updated with new log details"",""Passed - ToDo Entry page is updated with new log details"",""",19
+"""Verify ToDo Entry page is updated with new log details"","""",""FAILED",19
+"""Verify ToDo Entry page is updated with new log details"",""ToDo Entry page is not updated with new log details"",""",19
+"""Verify whether ToDo Role is created"",""ToDo Role is successfully created"",""PASSED",20
+"""Verify whether ToDo Role is created"",""ToDo Role is NOT created"",""FAILED",20
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" successfully created"",""PASSED",21
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" is not created"",""FAILED",21
+"""Verify whether To Do List Page is displayed successfully"",""To Do List Page is displayed successfully"",""PASSED",22
+"""Verify whether To Do List Page is displayed successfully"",""To Do List Page is NOT displayed successfully"",""FAILED",22
+"""Verify whether ToDo is completed"",""ToDo Entry is successfully completed"",""PASSED",23
+"""Verify whether ToDo is completed"",""ToDo Entry is NOT successfully completed"",""FAILED",23
+"""Verify whether ToDo Role is completed"",""ToDo Role is successfully created"",""PASSED",24
+"""Verify whether ToDo Role is completed"",""ToDo Role NOT created"",""FAILED",24
+"""Verify whether ToDo Type is completed"",""TO DO Type "" + strToDoTypeName + "" successfully created"",""PASSED",25
+"""Verify whether ToDo Type is completed"",""TO DO Type "" + strToDoTypeName + "" NOT created"",""FAILED",25
+"""TC - 100813,98643,99163,99286:TO DO ROLE IS REQUIRED ON THE GENERIC TO DO ENTRY CREATOR ALG"","""",""PASSED",26
+"""TC - 100813,98643,99163,99286:TO DO ROLE IS REQUIRED ON THE GENERIC TO DO ENTRY CREATOR ALG"","""",""FAILED",26
+"""TC - 100813,98643,99163,99286:TO DO ROLE IS REQUIRED ON THE GENERIC TO DO ENTRY CREATOR ALG"",""Error logged in log file"",""",26
+"""Verify whether All services user group loaded successfully"",""ALL_SERVICES usergroup not loaded successfully"",""FAILED",27
+"""Verify whether Sync BO is updated"",""The Sync BO updated properly without any error when TODO Role is not specified in transition algorithm."",""PASSED",28
+"""Verify whether Sync BO is updated"",""The Sync BO updated properly without any error when TODO Role is not specified in transition algorithm."",""PASSED",28
+"""Verify whether Sync BO is updated"","""",""FAILED",29
+"""Verify whether Sync BO is updated"",""The Sync BO is not updated properly"",""",29
+"""Verify whether Sync BO is updated"",""The Sync BO is not updated properly"",""FAILED",29
+"""Exception Occurred..."","""",""FAILED",30
+"""Verify whether ToDo is loaded successfully"",""TODO with priority "" + strToDOPriority[i] + "" and ID "" + strToDOIds[i] + ""  loaded successfully"",""PASSED",31
+"""Verify whether ToDo is loaded successfully"",""TODO with priority "" + strToDOPriority[i] + "" and ID "" + strToDOIds[i] + ""  is NOT loaded"",""FAILED",32
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO got Assigned to To the expected User"",""PASSED",33
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO did not get Assigned to To the expected User"",""FAILED",33
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO got Assigned to To the expected User"",""PASSED",34
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO did not get Assigned to To the expected User"",""FAILED",34
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO got Assigned to To the expected User"",""PASSED",35
+"""Verify whether ToDO got Assigned to To the expected User"",""ToDO did not get Assigned to To the expected User"",""FAILED",35
+"""Verify whether ToDO got COMPLETED"",""ToDO got COMPLETED"",""PASSED",36
+"""Verify whether ToDO got COMPLETED"",""ToDO did not get COMPLETED"",""PASSED",36
+"""Exception Occurred..."","""",""FAILED",37
+"""validate the characteristic type defined in TO DO type while creating To Do Entry"","""",""PASSED",38
+"""validate the characteristic type defined in TO DO type while creating To Do Entry"","""",""FAILED",38
+"""validate the characteristic type defined in TO DO type while creating To Do Entry"",""Error logged in log file"",""",38
+"""Verify whether ToDo Role is created"",""ToDo Role is successfully created"",""",39
+"""Verify whether ToDo Role is created"","""",""FAILED",40
+"""Verify whether ToDo Role is created"",""ToDo Role is NOT created"",""",40
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" successfully created"",""",41
+"""Verify whether ToDo Type is created"","""",""FAILED",42
+"""Verify whether ToDo Type is created"",""TO DO Type "" + strToDoTypeName + "" is not created"",""",42
+"""Verify whether ToDo is loaded successfully"",""TODO with priority "" + strToDOPriority[i] + "" and ID "" + strToDOIds[i] + ""  loaded successfully"",""PASSED",43
+"""Verify whether ToDo is loaded successfully"",""TODO with priority "" + strToDOPriority[i] + "" and ID "" + strToDOIds[i] + ""  is NOT loaded"",""FAILED",44
+"""Verify whether ToDo Role is completed"",""ToDo Role is successfully created"",""PASSED",45
+"""Verify whether ToDo Role is completed"",""ToDo Role NOT created"",""FAILED",45
+"""Verify whether ToDo Type is completed"",""TO DO Type "" + strToDoTypeName + "" successfully created"",""PASSED",46
+"""Verify whether ToDo Type is completed"",""TO DO Type "" + strToDoTypeName + "" NOT created"",""FAILED",46
+"""Verify whether ToDO got COMPLETED"",""ToDO got COMPLETED"",""PASSED",47
+"""Verify whether ToDO got COMPLETED"",""ToDO did not get COMPLETED"",""PASSED",47
+"""Verify whether Batch has executed successfully - Single Threaded"",""Batch did not complete in "" + intBatchMaxProcessTimeAllowed + "" secs. Please check and see if TPW is running"",""FAILED",48
